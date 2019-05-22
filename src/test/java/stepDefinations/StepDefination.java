@@ -36,6 +36,11 @@ public class StepDefination {
     	System.out.println("post to jira9");
     	System.out.println("post to jira10");
 		System.out.println("play with develop branch1");
+		
+		
+		
+		System.out.println("Testing develop branch and master branch seperately");
+
 
 
 
