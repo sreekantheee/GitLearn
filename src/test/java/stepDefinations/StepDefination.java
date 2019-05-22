@@ -30,6 +30,10 @@ public class StepDefination {
     	System.out.println(obj.get(0).get(2));
     	System.out.println(obj.get(0).get(3));
     	System.out.println(obj.get(0).get(4));
+    	System.out.println("post to jira2");
+    	System.out.println("post to jira3");
+
+    	
     	
     }
     
