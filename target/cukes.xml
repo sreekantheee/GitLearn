@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="4" time="0.360172">
+    <testcase classname="Application Login" name="Home page default login" time="0.355486">
+        <system-out>
+            <![CDATA[Given User is on NetBanking landing page....................................passed
+When User login into application with username "john" and password "4321"...passed
+Then Home Page is populated.................................................passed
+And Cards are displayed "false".............................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Application Login" name="Home page default login with parameters" time="0.00198">
+        <system-out>
+            <![CDATA[Given User is on NetBanking landing page....................................passed
+When User login in to application with user11 and pass1 6...................passed
+Then Home Page is populated.................................................passed
+And Cards are displayed "true"..............................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Application Login" name="Home page default login with parameters 2" time="0.001635">
+        <system-out>
+            <![CDATA[Given User is on NetBanking landing page....................................passed
+When User login in to application with user2 and pass2......................passed
+Then Home Page is populated.................................................passed
+And Cards are displayed "true"..............................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Application Login" name="Home page default login with parameters 3" time="0.001071">
+        <system-out>
+            <![CDATA[Given User is on NetBanking landing page....................................passed
+When User login in to application with user4 and pass4......................passed
+Then Home Page is populated.................................................passed
+And Cards are displayed "true"..............................................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>
