@@ -44,7 +44,7 @@ formatter.match({
   "location": "StepDefination.user_is_on_netbanking_landing_page()"
 });
 formatter.result({
-  "duration": 352546200,
+  "duration": 817728000,
   "status": "passed"
 });
 formatter.match({
@@ -61,14 +61,14 @@ formatter.match({
   "location": "StepDefination.user_login_into_application_with_username_and_password(String,String)"
 });
 formatter.result({
-  "duration": 2652300,
+  "duration": 3702000,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefination.home_page_is_populated()"
 });
 formatter.result({
-  "duration": 72700,
+  "duration": 430000,
   "status": "passed"
 });
 formatter.match({
@@ -81,7 +81,7 @@ formatter.match({
   "location": "StepDefination.cards_are_displayed_something(String)"
 });
 formatter.result({
-  "duration": 214600,
+  "duration": 573900,
   "status": "passed"
 });
 formatter.scenarioOutline({
@@ -160,7 +160,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 293400,
+  "duration": 392300,
   "status": "passed"
 });
 formatter.scenario({
@@ -205,7 +205,7 @@ formatter.match({
   "location": "StepDefination.user_is_on_netbanking_landing_page()"
 });
 formatter.result({
-  "duration": 116000,
+  "duration": 362300,
   "status": "passed"
 });
 formatter.match({
@@ -222,14 +222,14 @@ formatter.match({
   "location": "StepDefination.user_login_into_application_with_user_and_pass(String,String)"
 });
 formatter.result({
-  "duration": 181000,
+  "duration": 466200,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefination.home_page_is_populated()"
 });
 formatter.result({
-  "duration": 625600,
+  "duration": 269200,
   "status": "passed"
 });
 formatter.match({
@@ -242,15 +242,15 @@ formatter.match({
   "location": "StepDefination.cards_are_displayed_something(String)"
 });
 formatter.result({
-  "duration": 462400,
+  "duration": 597600,
   "status": "passed"
 });
 formatter.after({
-  "duration": 301600,
+  "duration": 426300,
   "status": "passed"
 });
 formatter.before({
-  "duration": 105900,
+  "duration": 375700,
   "status": "passed"
 });
 formatter.scenario({
@@ -295,7 +295,7 @@ formatter.match({
   "location": "StepDefination.user_is_on_netbanking_landing_page()"
 });
 formatter.result({
-  "duration": 111700,
+  "duration": 604000,
   "status": "passed"
 });
 formatter.match({
@@ -312,14 +312,14 @@ formatter.match({
   "location": "StepDefination.user_login_into_application_with_user_and_pass(String,String)"
 });
 formatter.result({
-  "duration": 661500,
+  "duration": 6724300,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefination.home_page_is_populated()"
 });
 formatter.result({
-  "duration": 229000,
+  "duration": 811800,
   "status": "passed"
 });
 formatter.match({
@@ -332,15 +332,15 @@ formatter.match({
   "location": "StepDefination.cards_are_displayed_something(String)"
 });
 formatter.result({
-  "duration": 311400,
+  "duration": 5101700,
   "status": "passed"
 });
 formatter.after({
-  "duration": 215100,
+  "duration": 30969900,
   "status": "passed"
 });
 formatter.before({
-  "duration": 140500,
+  "duration": 351200,
   "status": "passed"
 });
 formatter.scenario({
@@ -385,7 +385,7 @@ formatter.match({
   "location": "StepDefination.user_is_on_netbanking_landing_page()"
 });
 formatter.result({
-  "duration": 254800,
+  "duration": 250700,
   "status": "passed"
 });
 formatter.match({
@@ -402,14 +402,14 @@ formatter.match({
   "location": "StepDefination.user_login_into_application_with_user_and_pass(String,String)"
 });
 formatter.result({
-  "duration": 302200,
+  "duration": 159600,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefination.home_page_is_populated()"
 });
 formatter.result({
-  "duration": 118600,
+  "duration": 269200,
   "status": "passed"
 });
 formatter.match({
@@ -422,11 +422,11 @@ formatter.match({
   "location": "StepDefination.cards_are_displayed_something(String)"
 });
 formatter.result({
-  "duration": 167300,
+  "duration": 492200,
   "status": "passed"
 });
 formatter.after({
-  "duration": 87200,
+  "duration": 64900,
   "status": "passed"
 });
 });
